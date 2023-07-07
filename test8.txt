@@ -1,0 +1,27 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+To grant access to the server, please log into https://github.com/login/device and use code C496-6FCC
+[2m[2023-07-07 16:03:46][0m [31merror[0m error listing current tunnels: connection error: error sending request for url (https://global.rel.tunnels.api.visualstudio.com/api/v1/tunnels?global=true&tags=vscode-server-launcher&allTags=true): error trying to connect: dns error: 不知道这样的主机。 (os error 11001)
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+[2m[2023-07-07 16:22:20][0m [35minfo[0m Creating tunnel with the name: desktop-kumdspt
+
+Open this link in your browser https://vscode.dev/tunnel/desktop-kumdspt/C:/Users/zorel/Desktop/test
+
+[2m[2023-07-07 16:23:26][0m [35minfo[0m [tunnels::connections::ws] error reading websocket: WebSocket protocol error: Connection reset without closing handshake
+[2m[2023-07-07 16:23:26][0m [33mwarn[0m Tunnel exited unexpectedly but gracefully, reconnecting
+[2m[2023-07-07 16:23:35][0m [35minfo[0m [tunnels::connections::relay_tunnel_host] Opened new client on channel 2
+[2m[2023-07-07 16:23:36][0m [35minfo[0m [rpc.0] Checking C:\Users\zorel\.vscode\cli\servers\Stable-660393deaaa6d1996740ff4880f1bad43768c814\log.txt and C:\Users\zorel\.vscode\cli\servers\Stable-660393deaaa6d1996740ff4880f1bad43768c814\pid.txt for a running server...
+[2m[2023-07-07 16:23:37][0m [35minfo[0m [rpc.0] Downloading Visual Studio Code server -> C:\Users\zorel\AppData\Local\Temp\.tmpQogJj9\vscode-server-win32-x64.zip
+[2m[2023-07-07 16:23:46][0m [35minfo[0m [rpc.0] Starting server...
+[2m[2023-07-07 16:23:47][0m [35minfo[0m [rpc.0] Server started
