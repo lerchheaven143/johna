@@ -1,0 +1,9 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+To grant access to the server, please log into https://github.com/login/device and use code 216F-1061
+[2m[2023-07-06 23:32:30][0m [35minfo[0m Creating tunnel with the name: desktop-96kg0t5
